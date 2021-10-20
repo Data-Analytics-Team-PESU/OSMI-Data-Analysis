@@ -14,3 +14,6 @@ employee mental health. We also delve into:
 - the variation of employee attitudes towards sharing their issues with their employers,
 - how this attitude correlates to the inclination of employees to get treated, and 
 - how this attitude correlates with employer initiatives.
+
+### Repository Structure 
+1. [Exploratory Data Analysis - 2014 Survey.ipynb](https://github.com/Data-Analytics-Team-PESU/OSMI-Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%202014%20Survey.ipynb): Performs pre-processing, exploratory data analysis and visualization on the 2014 dataset.
