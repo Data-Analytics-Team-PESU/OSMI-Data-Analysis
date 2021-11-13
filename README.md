@@ -1,4 +1,4 @@
-# Analysis of the Evolution of Tech Workplace Disposition toward Mental Health
+# Evolution of Tech Workplace Disposition toward Mental Health
 *Data Analysis on the OSMI Survey Datasets*
 
 ### About the Datasets
