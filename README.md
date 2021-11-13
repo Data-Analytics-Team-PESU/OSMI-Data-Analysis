@@ -16,4 +16,26 @@ employee mental health. We also delve into:
 - how this attitude correlates with employer initiatives.
 
 ### Repository Structure 
-1. [Exploratory Data Analysis - 2014 Survey.ipynb](https://github.com/Data-Analytics-Team-PESU/OSMI-Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%202014%20Survey.ipynb): Performs pre-processing, exploratory data analysis and visualization on the 2014 dataset.
+```bash
+.
+├── datasets
+│   ├── 2014_data_kaggle.csv
+│   ├── 2016_data_kaggle.csv
+│   ├── 2017_data_kaggle.csv
+│   ├── 2018_data.csv
+│   ├── 2018_data_kaggle.csv
+│   ├── 2019_data.csv
+│   ├── 2019_data_kaggle.csv
+│   ├── 2020_data.csv
+│   ├── 2020_data_kaggle.csv
+│   └── aggregate_data.csv
+├── eda
+│   └── Exploratory Data Analysis - 2014 Survey.ipynb
+├── individual-drafts
+│   ├── Shree_EDA.ipynb
+│   └── Shruvi_EDA.ipynb
+├── preprocessing
+│   ├── Dataset Aggregation.ipynb
+│   └── DatasetCleaning_WebScraping.ipynb
+└── README.md
+```
