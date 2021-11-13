@@ -2,7 +2,7 @@
 *Data Analysis on the OSMI Survey Datasets*
 
 ### About the Datasets
-OSMI is a non-profit organization dedicated to raising awareness about mental health and wellness in tech and open source communities. It is responsible for collecting a repository of data sets, one for each year since 2014, regarding mental health in the tech workplace. We look to aggregate all these datasets to analyze overarching trends regarding mental health attitudes in the workplace throughout the years.
+The non-profit organization, [OSMI](https://osmihelp.org/) is involved in raising awareness and providing resources to support mental health and wellness in tech and open source communities. It has contributed to the public a repository of datasets, collected throughout the years since 2014 through questionnaires. We look to aggregate these datasets to analyze overarching trends regarding attitudes and perception of mental health in the workplace throughout the years.
 
 Sources for the datasets: 
 1. [Research from OSMI](https://osmihelp.org/research)
