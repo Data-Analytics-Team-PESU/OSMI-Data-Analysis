@@ -19,23 +19,24 @@ employee mental health. We also delve into:
 ```bash
 .
 ├── datasets
-│   ├── 2014_data_kaggle.csv
-│   ├── 2016_data_kaggle.csv
-│   ├── 2017_data_kaggle.csv
-│   ├── 2018_data.csv
-│   ├── 2018_data_kaggle.csv
-│   ├── 2019_data.csv
-│   ├── 2019_data_kaggle.csv
-│   ├── 2020_data.csv
-│   ├── 2020_data_kaggle.csv
-│   └── aggregate_data.csv
+│   ├── final_2017.csv
+│   ├── final_2018.csv
+│   ├── final_2019.csv
+│   ├── final_2020.csv
+│   ├── initial_2014.csv
+│   ├── initial_2016.csv
+│   ├── initial_2017.csv
+│   ├── initial_2018.csv
+│   ├── initial_2019.csv
+│   └── initial_2020.csv
 ├── eda
-│   └── Exploratory Data Analysis - 2014 Survey.ipynb
+│   └── EDA_2014 Survey.ipynb
 ├── individual-drafts
 │   ├── Shree_EDA.ipynb
 │   └── Shruvi_EDA.ipynb
 ├── preprocessing
-│   ├── Dataset Aggregation.ipynb
-│   └── DatasetCleaning_WebScraping.ipynb
+│   ├── Creating_Annual_Datasets.ipynb
+│   └── Dataset Aggregation.ipynb
 └── README.md
+
 ```
